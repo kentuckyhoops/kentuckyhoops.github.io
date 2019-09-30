@@ -29,6 +29,7 @@
 header nav a {
 	/* Links in header */
 	padding-right: 2%;
+	color: white;
 }
 #content #mainContent h1, #content #mainContent h2 {
 	/* Styling for main headings */
@@ -166,7 +167,7 @@ footer {
 }
 #mainwrapper header nav a {
 	/* Links in header */
-	color: rgba(146,146,146,1.00);
+	color: white;
 	text-decoration: none;
 }
 
